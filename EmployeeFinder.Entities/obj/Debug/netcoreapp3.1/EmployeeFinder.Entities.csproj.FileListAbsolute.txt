@@ -1,0 +1,9 @@
+C:\Users\user\source\repos\EmployeeFinder\EmployeeFinder.Entities\bin\Debug\netcoreapp3.1\EmployeeFinder.Entities.deps.json
+C:\Users\user\source\repos\EmployeeFinder\EmployeeFinder.Entities\bin\Debug\netcoreapp3.1\EmployeeFinder.Entities.dll
+C:\Users\user\source\repos\EmployeeFinder\EmployeeFinder.Entities\bin\Debug\netcoreapp3.1\EmployeeFinder.Entities.pdb
+C:\Users\user\source\repos\EmployeeFinder\EmployeeFinder.Entities\obj\Debug\netcoreapp3.1\EmployeeFinder.Entities.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\EmployeeFinder\EmployeeFinder.Entities\obj\Debug\netcoreapp3.1\EmployeeFinder.Entities.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\EmployeeFinder\EmployeeFinder.Entities\obj\Debug\netcoreapp3.1\EmployeeFinder.Entities.AssemblyInfo.cs
+C:\Users\user\source\repos\EmployeeFinder\EmployeeFinder.Entities\obj\Debug\netcoreapp3.1\EmployeeFinder.Entities.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\EmployeeFinder\EmployeeFinder.Entities\obj\Debug\netcoreapp3.1\EmployeeFinder.Entities.dll
+C:\Users\user\source\repos\EmployeeFinder\EmployeeFinder.Entities\obj\Debug\netcoreapp3.1\EmployeeFinder.Entities.pdb

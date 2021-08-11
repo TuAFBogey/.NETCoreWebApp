@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\EmployeeFinder\EmployeeFinder.DataAccess\bin\Debug\netcoreapp3.1\EmployeeFinder.DataAccess.deps.json
+C:\Users\user\source\repos\EmployeeFinder\EmployeeFinder.DataAccess\bin\Debug\netcoreapp3.1\EmployeeFinder.DataAccess.runtimeconfig.json
+C:\Users\user\source\repos\EmployeeFinder\EmployeeFinder.DataAccess\bin\Debug\netcoreapp3.1\EmployeeFinder.DataAccess.runtimeconfig.dev.json
+C:\Users\user\source\repos\EmployeeFinder\EmployeeFinder.DataAccess\bin\Debug\netcoreapp3.1\EmployeeFinder.DataAccess.dll
+C:\Users\user\source\repos\EmployeeFinder\EmployeeFinder.DataAccess\bin\Debug\netcoreapp3.1\EmployeeFinder.DataAccess.pdb
+C:\Users\user\source\repos\EmployeeFinder\EmployeeFinder.DataAccess\bin\Debug\netcoreapp3.1\EmployeeFinder.Entities.dll
+C:\Users\user\source\repos\EmployeeFinder\EmployeeFinder.DataAccess\bin\Debug\netcoreapp3.1\EmployeeFinder.Entities.pdb
+C:\Users\user\source\repos\EmployeeFinder\EmployeeFinder.DataAccess\obj\Debug\netcoreapp3.1\EmployeeFinder.DataAccess.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\EmployeeFinder\EmployeeFinder.DataAccess\obj\Debug\netcoreapp3.1\EmployeeFinder.DataAccess.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\EmployeeFinder\EmployeeFinder.DataAccess\obj\Debug\netcoreapp3.1\EmployeeFinder.DataAccess.AssemblyInfo.cs
+C:\Users\user\source\repos\EmployeeFinder\EmployeeFinder.DataAccess\obj\Debug\netcoreapp3.1\EmployeeFinder.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\EmployeeFinder\EmployeeFinder.DataAccess\obj\Debug\netcoreapp3.1\EmployeeFinder.DataAccess.csproj.CopyComplete
+C:\Users\user\source\repos\EmployeeFinder\EmployeeFinder.DataAccess\obj\Debug\netcoreapp3.1\EmployeeFinder.DataAccess.dll
+C:\Users\user\source\repos\EmployeeFinder\EmployeeFinder.DataAccess\obj\Debug\netcoreapp3.1\EmployeeFinder.DataAccess.pdb
+C:\Users\user\source\repos\EmployeeFinder\EmployeeFinder.DataAccess\obj\Debug\netcoreapp3.1\EmployeeFinder.DataAccess.genruntimeconfig.cache

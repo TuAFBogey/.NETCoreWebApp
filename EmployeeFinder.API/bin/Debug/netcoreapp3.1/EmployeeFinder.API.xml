@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>EmployeeFinder.API</name>
+    </assembly>
+    <members>
+        <member name="M:EmployeeFinder.API.Controller.EmployeesController.Get">
+            <summary>
+            Get All Employess
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:EmployeeFinder.API.Controller.EmployeesController.GetEmployeeById(System.Int32)">
+            <summary>
+            Get Employee By Id
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:EmployeeFinder.API.Controller.EmployeesController.GetEmployeeByDepartment(System.String)">
+            <summary>
+            Get Employee By Department
+            </summary>
+            <param name="department"></param>
+            <returns></returns>
+        </member>
+        <member name="M:EmployeeFinder.API.Controller.EmployeesController.Post(EmployeeFinder.Entities.Employee)">
+            <summary>
+            Create an Employee
+            </summary>
+            <param name="employee"></param>
+            <returns></returns>
+        </member>
+        <member name="M:EmployeeFinder.API.Controller.EmployeesController.Put(EmployeeFinder.Entities.Employee)">
+            <summary>
+            Update the Employee
+            </summary>
+            <param name="employee"></param>
+            <returns></returns>
+        </member>
+        <member name="M:EmployeeFinder.API.Controller.EmployeesController.Delete(System.Int32)">
+            <summary>
+            Delete the Employee
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
